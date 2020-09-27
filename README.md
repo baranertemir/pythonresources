@@ -28,6 +28,8 @@ https://www.youtube.com/playlist?list=PLK6Whnd55IH5i1klkNSBDasIaO77l-Bm9
 
 https://www.youtube.com/playlist?list=PLmvShhBbNYrTkzcj-darhclgS15EeVQXX
 
+https://www.youtube.com/watch?v=tvvEqvyh_Vw&t=5s
+
 
 Ingilizce Kaynaklar:
 
@@ -42,5 +44,7 @@ https://goalkicker.com/PythonBook/
 https://docs.python.org/3/library/index.html
 
 https://realpython.com/
+
+https://github.com/vinta/awesome-python#resources
 
 
